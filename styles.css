@@ -14,7 +14,7 @@
 .box.blue{
 	background-color:blue;
 }
-.container{
+.holder{
 	display:flex;
 	flex-direction:row;
 	justify-content:center;
